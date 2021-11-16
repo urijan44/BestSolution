@@ -7,3 +7,4 @@
 |1|동전 0|그리디|[백준11047](https://www.acmicpc.net/problem/11047)|[풀이](Solutions/BOJ/Greedy/BOJ11047.swift), [해설](https://blog.naver.com/raphaelra44/222546195826)|Henry|
 |2|N진수 게임|수학|[프로그래머스 N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[풀이](Solutions/Programmers/Math/Ngame.swift), [해설](https://cksgh.tistory.com/entry/N%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)|Alex Hwang|
 |3|괄호 변환|완전 탐색, 재귀|[프로그래머스 괄호 변한](https://programmers.co.kr/learn/courses/30/lessons/60058)|[풀이](Solutions/Programmers/Recursive/BracketTranslate.swift), [해설](https://blog.naver.com/raphaelra44/222566491277)|Henry|
+|4|뉴스 클러스터링|문자열, 집합|[프로그래머스 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](Solutions/Programmers/Set/News/README.md), [해설](Solutions/Programmers/Set/News/README.md)|JD-man|
