@@ -8,4 +8,4 @@
 |2|N진수 게임|수학|[프로그래머스 N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[풀이](Solutions/Programmers/Math/Ngame.swift), [해설](https://cksgh.tistory.com/entry/N%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)|Alex Hwang|
 |3|괄호 변환|완전 탐색, 재귀|[프로그래머스 괄호 변한](https://programmers.co.kr/learn/courses/30/lessons/60058)|[풀이](Solutions/Programmers/Recursive/BracketTranslate.swift), [해설](https://blog.naver.com/raphaelra44/222566491277)|Henry|
 |4|뉴스 클러스터링|문자열, 집합|[프로그래머스 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](Solutions/Programmers/Set/News/README.md), [해설](Solutions/Programmers/Set/News/README.md)|JD-man|
-|5|압축|문자열, 구현|[프로그래머스 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|[풀이](Solutions/Programmers/String/Compress.swift), [해설](https://blog.naver.com/raphaelra44/222591530538)
+|5|압축|문자열, 구현|[프로그래머스 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|[풀이](Solutions/Programmers/String/Compress.swift), [해설](https://blog.naver.com/raphaelra44/222591530538)|Henry|
