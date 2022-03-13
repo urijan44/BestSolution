@@ -1,7 +1,7 @@
 import Foundation
 
 func solution(_ recordList:[String]) -> [String] {
-	let ACTION = 0
+    let ACTION = 0
     let UID = 1 
     let NICKNAME = 2
 	
