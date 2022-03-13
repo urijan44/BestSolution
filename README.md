@@ -19,3 +19,4 @@
 |13|쿼드압축 후 개수 세기|BFS|[프로그래머스 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)|[풀이](Solutions/Programmers/BFS/QuadTree.md),[해설](Solutions/Programmers/BFS/QuadTree.md)|JD-man|
 |14|방문 길이|구현|[프로그래머스 방문길이 세기](https://programmers.co.kr/learn/courses/30/lessons/49994)|[풀이](Solutions/Programmers/Implement/VisitedLength.swift),[해설](https://blog.naver.com/raphaelra44/222619316529)|Henry|
 |15|점프와 순간 이동|수학|[프로그래머스 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)|[풀이](Solutions/Programmers/Math/JumpAndTeleport.swift),[해설](https://velog.io/@hey_hen/프로그래머스-SummerWinter-Coding2018-점프와-순간이동-Swift)|Henry|
+|16|오픈채팅방|문자열|[프로그래머스 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[풀이](https://github.com/urijan44/BestSolution/blob/master/Solutions/Programmers/String/OpenChatRoom.swift), [해설](https://velog.io/@hope1053/level-2-오픈-채팅방)|Hyerin|
