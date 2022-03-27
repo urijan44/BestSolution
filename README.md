@@ -27,3 +27,4 @@
 |21|입국심사|이분탐색|[프로그래머스 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[풀이](https://github.com/Brandnew-one/Coding_test/blob/master/sangwon/Programmers/43238.swift), [해설](https://velog.io/@cold929/프로그래머스-43238입국심사)|Brandnew-One|
 |22|등굣길|DP|[프로그래머스 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[풀이](Solutions/Programmers/DP/TheWayToSchool.cpp), [해설](https://doing-programming.tistory.com/53)|Henry|
 |23|요세푸스문제|링크드리스트,큐|[BOJ1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)|[풀이](Solutions/BOJ/Greedy/BOJ1158.swift), [해설](https://doing-programming.tistory.com/55)|Henry|
+|24|Merge Two Sorted Lists|링크드리스트|[LeetCode Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[풀이](https://github.com/noh3310/Algorithm_Swift/blob/main/Algorithm_Swift/LeetCode/Merge%20Two%20Sorted%20Lists.swift), [해설](https://jerry-bakery.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Merge-Two-Sorted-ListsLeetCode-Swift)|Jenry|
